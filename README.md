@@ -129,6 +129,12 @@ Assets and snippets used in the project can be found in the **[video kit](https:
 
 Enjoyed creating this project? Dive deeper into our PRO courses for a richer learning adventure. They're packed with
 detailed explanations, cool features, and exercises to boost your skills. Give it a go!
+Building full-stack AI applications
+Integrating AI APIs into web applications
+Handling PDF uploads and parsing
+State management in React
+TypeScript best practices
+Responsive UI development
 
 <a href="https://jsm.dev/resumind-courses" target="_blank">
   <img src="public/readme/jsmpro.webp" alt="Project Banner">
